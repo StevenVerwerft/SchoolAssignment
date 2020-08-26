@@ -2,7 +2,7 @@
 
 ## Overzicht Data
 
-De geanonimiseerde dataset bevat **18791** records. Iedere record staat voor de applicatie van een kind voor een school. Respectievelijk aangegeven door KindId en SchoolId.
+De geanonimiseerde dataset bevat **18791** records. Iedere record staat voor de applicatie van een kind voor een school. Respectievelijk aangegeven door KindId en SchoolId. Na filteren van applicaties in periode 3 blijven nog **16597** records over. 
 
 ### Periodes
 
